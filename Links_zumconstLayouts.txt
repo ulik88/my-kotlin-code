@@ -1,0 +1,12 @@
+ConstraintLayout — nützliche Links
+Dokumentation des ConstraintLayouts:
+https://developer.android.com/training/constraint-layout/
+
+Referenz des ConstraintLayouts mit Beschreibung der XML-Attribute:
+https://developer.android.com/reference/android/support/constraint/ConstraintLayout
+
+Beschreibung des Layout Editors:
+https://developer.android.com/studio/write/layout-editor
+
+Beispiel-App zum ConstraintLayout mit Quellcode und mehreren Anwendungsfällen: 
+https://github.com/googlesamples/android-ConstraintLayoutExamples
